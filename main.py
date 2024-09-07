@@ -30,6 +30,7 @@ for i in range(len(TempFilePath)):
     os.remove(TempFilePath[i])
     print('Delete:    ' + TempFilePath[i])
 os.rmdir('./temp')
+print('Delete:    ./temp')
 print(line)
 
 print(line)
