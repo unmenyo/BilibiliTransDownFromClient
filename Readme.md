@@ -23,11 +23,11 @@ OnlyAudio.py用于仅导出音频，且将视频的第一帧作为封面（在b�
 
 bilibili电脑端：将缓存的视频所在文件夹bilibili直接拖入 Transform.py或OnlyAudio.py（后文将统称脚本），这将使所有缓存的视频导出，也可进入bilibili文件夹，自行选择想要导出的单个视频的文件夹拖入脚本。
 
-就像这样:
+### 就像这样:
 
 ![](https://picx.zhimg.com/v2-885a966c1ae3b85fe540ce58992a751f_r.jpg)
 
-或是这样：
+### 或是这样：
 
 ![](https://pic4.zhimg.com/v2-95cc6ea80717bf58c8a4dfa625ca69a7_r.jpg)
 
