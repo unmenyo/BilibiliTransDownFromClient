@@ -19,7 +19,7 @@
 ## 2.使用
 
 Transform.py用于导出视频
-OnlyAudio.py用于仅导出音频，且将视频的第一帧作为封面
+OnlyAudio.py用于仅导出音频，且将视频的第一帧作为封面（在b站听歌听的）
 
 bilibili电脑端：将缓存的视频所在文件夹bilibili直接拖入 Transform.py或OnlyAudio.py（后文将统称脚本），这将使所有缓存的视频导出，也可进入bilibili文件夹，自行选择想要导出的单个视频的文件夹拖入脚本。
 
