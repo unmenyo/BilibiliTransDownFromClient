@@ -1,9 +1,8 @@
-# 这是一个用于将B站缓存的视频导出为mp4或mp3的python脚本
+# 这是一个用于将B站缓存的视频导出为mp4或mp3的 python 脚本
 
-
+## 前往仓库打包下载脚本：
 [BilibiliTransDownFromClient](https://github.com/unmenyo/BilibiliTransDownFromClient)
 
----
 ---
 
 ## 1.使用该脚本的前提
@@ -19,6 +18,7 @@
 ## 2.使用
 
 Transform.py用于导出视频
+
 OnlyAudio.py用于仅导出音频，且将视频的第一帧作为封面（在b站听歌听的）
 
 bilibili电脑端：将缓存的视频所在文件夹bilibili直接拖入 Transform.py或OnlyAudio.py（后文将统称脚本），这将使所有缓存的视频导出，也可进入bilibili文件夹，自行选择想要导出的单个视频的文件夹拖入脚本。
